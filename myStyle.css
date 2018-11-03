@@ -148,10 +148,12 @@
   .portfolio-modal .modal-content h2 {
     font-size: 3em;
     margin-bottom: 15px;
+    text-align: center;
   }
   
   .portfolio-modal .modal-content p {
     margin-bottom: 30px;
+    text-align: left;
   }
   
   .portfolio-modal .modal-content p.item-intro {
@@ -261,11 +263,12 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    
   }
   
   
   .content {
-    max-width: 300px;
+    max-width: 1000px;
   }
   #photos {
     opacity: .88;
@@ -283,7 +286,7 @@
     margin: 0px auto;
     padding: 10px;
     display: block;
-    max-width: 780px;
+    max-width: 900px;
     text-align: center;
   }
   
@@ -312,3 +315,30 @@
   #photo-gallery {
     width: 100%;
   }
+
+
+table td {
+	border-collapse: collapse;
+	vertical-align:middle;
+	font-size: 14px;
+	color: #000;
+	text-align: left;
+}
+table td[class="column"] {
+    height:100px;
+    width:200px;
+}
+table {
+	border-collapse: collapse;
+	mso-table-lspace: 0pt;
+	mso-table-rspace: 0pt;
+}
+
+table[class="body_table"] {
+	width: 800px;
+}
+
+
+table[class="home_table"] {
+	width: 1200px;
+}
