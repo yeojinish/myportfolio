@@ -23,14 +23,13 @@
   }
   
   .btn-primary {
-    background-color: #1D809F;
-    border-color: #1D809F;
+    background-color: #990033;
+    border-color: #990033;
   }
   
   .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-    background-color: #1D809F !important;
-    border-color: #1D809F !important;
-    color: #ecb807;
+    background-color: #660022 !important;
+    border-color: #660022;
   }
   
   .btn-primary:active, .btn-primary:focus {
@@ -39,12 +38,12 @@
   }
   
   ::-moz-selection {
-    background: #1D809F;
+    background: #990033;
     text-shadow: none;
   }
   
   ::selection {
-    background: #1D809F;
+    background: #990033;
     text-shadow: none;
   }
   
@@ -76,12 +75,12 @@
   }
   
   #mainNav .navbar-brand {
-    color: #1D809F;
+    color: #990033;
     font-family: 'Kaushan Script', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   }
   
   #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-    color: #1D809F;
+    color: #990033;
   }
   
   #mainNav .navbar-nav .nav-item .nav-link {
