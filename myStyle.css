@@ -341,3 +341,9 @@ table[class="body_table"] {
 table[class="home_table"] {
 	width: 1200px;
 }
+
+.service-icon:hover, .service-icon:focus, .service-icon:active {
+  background-color: #990033 !important;
+  border-color: #990033 !important;
+  shadow:0%;
+}
