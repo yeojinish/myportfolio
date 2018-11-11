@@ -1,5 +1,5 @@
 .bobsBg {
-    background-color:#ecb807 !important;
+    background-color:#ffd322 !important;
 }
 
 .yeojin1 {
@@ -104,6 +104,7 @@
       transition: padding-top 0.3s, padding-bottom 0.3s;
       border: none;
       background-color: transparent;
+      align-content : right;
     }
     #mainNav .navbar-brand {
       font-size: 1.75em;
