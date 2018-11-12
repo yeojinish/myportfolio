@@ -348,3 +348,7 @@ table[class="home_table"] {
   border-color: #990033 !important;
   shadow:0%;
 }
+
+.navbar-nav {
+ margin-right:0px;
+}
