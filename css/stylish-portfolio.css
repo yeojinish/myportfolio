@@ -161,7 +161,7 @@ h6 {
     -webkit-transition: padding-top 0.3s, padding-bottom 0.3s;
     transition: padding-top 0.3s, padding-bottom 0.3s;
     border: none;
-    background-color: #ffffff; opacity: 0.3;
+    background-color: #ffffff; opacity: 0.5;
   }
   #mainNav .navbar-brand {
     font-size: 1.75em;
