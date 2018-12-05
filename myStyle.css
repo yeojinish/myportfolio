@@ -6,6 +6,12 @@
     font-style: white !important;
     size:
 }
+
+.text-foodvibe {
+  color: #F15922 !important;
+  text-align: left;
+}
+
 @media (min-width: 768px) {
     section {
       padding: 150px 0;
