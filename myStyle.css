@@ -12,6 +12,22 @@
   text-align: left;
 }
 
+.text-amazon {
+  color: #269FA5 !important;
+  text-align: left;
+}
+
+.text-nga {
+  color: #C73E56 !important;
+  text-align: left;
+}
+
+.text-wsj {
+  color: #066D8B !important;
+  text-align: left;
+}
+
+
 @media (min-width: 768px) {
     section {
       padding: 150px 0;
