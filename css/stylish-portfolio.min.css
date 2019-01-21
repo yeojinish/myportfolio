@@ -53,8 +53,8 @@
                         .portfolio-item:hover img{-webkit-clip-path:inset(2rem);clip-path:inset(2rem)}
                         .portfolio-item:hover .caption{background-color:#990033;-webkit-clip-path:inset(2rem);clip-path:inset(2rem)}}footer
                         .footer{padding-top:5rem;padding-bottom:5rem}footer.footer 
-                        .social-link{display:block;height:4rem;width:4rem;line-height:4.3rem;font-size:1.5rem;background-color:#990033;-webkit-transition:background-color .15s ease-in-out;transition:background-color .15s ease-in-out;-webkit-box-shadow:0 3px 3px 0 rgba(0,0,0,.1);box-shadow:0 3px 3px 0 rgba(0,0,0,.1)}footer.footer 
-                        .social-link:hover{background-color:#660022;text-decoration:none}a{color:#990033}a:active,a:focus,a:hover{color:#990033}
+                        .social-link{display:block;height:4rem;width:4rem;line-height:4.3rem;font-size:1.5rem;background-color:#ecb807;-webkit-transition:background-color .15s ease-in-out;transition:background-color .15s ease-in-out;-webkit-box-shadow:0 3px 3px 0 rgba(0,0,0,.1);box-shadow:0 3px 3px 0 rgba(0,0,0,.1)}footer.footer 
+                        .social-link:hover{background-color:#990033;text-decoration:none}a{color:#990033}a:active,a:focus,a:hover{color:#990033}
                         .btn-primary{background-color:#990033!important;border-color:#990033!important;color:#fff!important}.btn-primary:active,.btn-primary:focus,
                         .btn-primary:hover{background-color:#660022!important;border-color:#660022!important}
                         .btn-secondary{background-color:#ecb807!important;border-color:#ecb807!important;color:#fff!important}
