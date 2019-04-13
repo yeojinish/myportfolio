@@ -86,33 +86,18 @@ h6 {
 }
 
 .masthead {
-  min-height: 25rem;
   position: relative;
   display: table;
   width: 100%;
   height: auto;
   padding-top: 2rem;
-  padding-bottom: 2rem;
-  background: -webkit-gradient(linear, left top, right top, from(rgba(255, 255, 255, 0.1)), to(rgba(255, 255, 255, 0.1))), url("../img/bg-masthead.jpg");
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/bg-masthead.jpg");
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  padding-bottom: 1rem;
 }
 
 .masthead h1 {
   font-size: 2rem;
   margin: 0;
   padding: 0;
-}
-
-@media (min-width: 992px) {
-  .masthead {
-    height: 90vh;
-  }
-  .masthead h1 {
-    font-size: 4rem;
-  }
 }
 
 /* Main Nav */
@@ -126,7 +111,7 @@ h6 {
   right: 0;
   padding: 13px;
   text-transform: uppercase;
-  color: #ecb807!important;
+  color: #e88162!important;
   border: 0;
   background-color: salmon;
   font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
@@ -202,19 +187,6 @@ h6 {
 .menu-toggle:hover {
   background: #343a40;
 }
-
-.service-icon {
-  background-color: #fff;
-  color: #990033;
-  height: 7rem;
-  width: 7rem;
-  display: block;
-  line-height: 7.5rem;
-  font-size: 2.25rem;
-  -webkit-box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
-  box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
-}
-
 
 
 
@@ -321,11 +293,6 @@ footer.footer .social-link {
   box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
 }
 
-footer.footer .social-link:hover {
-  background-color: #155d74;
-  text-decoration: none;
-}
-
 a {
   color: #1D809F;
 }
@@ -366,9 +333,6 @@ a:hover, a:focus, a:active {
   font-weight: 700;
 }
 
-.bg-primary {
-  background-color: #1D809F !important;
-}
 
 .text-primary {
   color: #1D809F !important;

@@ -1,5 +1,5 @@
 .bobsBg {
-    background-color:#990033!important;
+    background-color:#ffffff!important;
 }
 
 .yeojin1 {
@@ -17,8 +17,8 @@
   text-align: left;
 }
 
-.text-nga {
-  color: #C73E56 !important;
+.text-EBQ {
+  color: #2979f2 !important;
   text-align: left;
 }
 
@@ -30,6 +30,10 @@
 .text-scout {
   color: #50BC86 !important;
   text-align: left;
+}
+
+.text-plum {
+  color: #f9aa90 !important;
 }
 
 .text-left {
@@ -100,7 +104,7 @@
     right: 0;
     padding: 13px;
     text-transform: uppercase;
-    color: #ecb807;
+    color: #e88162;
     border: 0;
     background-color: #ffffff;
     font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
@@ -120,7 +124,7 @@
     font-weight: 400;
     padding: 0.75em 0;
     letter-spacing: 1px;
-    color: #ecb807;
+    color:  #e88162;
     font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   }
   
@@ -376,8 +380,7 @@ table[class="home_table"] {
 }
 
 .service-icon:hover, .service-icon:focus, .service-icon:active {
-  background-color: #fcd44e !important;
-  border-color: #ff8161 !important;
+  background-color: #990033 !important;
   shadow:0%;
 }
 
@@ -385,3 +388,6 @@ table[class="home_table"] {
  margin-right:0px;
 }
 
+.bg-primary {
+  background-color: #fff4ee !important;
+}
