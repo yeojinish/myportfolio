@@ -18,7 +18,18 @@
 }
 
 .text-EBQ {
-  color: #FC6D61 !important;
+  color: #2979F2 !important;
+  text-align: left;
+}
+
+.text-LCV {
+  color: #607FD8 !important;
+  text-align: left;
+}
+
+
+.text-QT {
+  color: #F03E7C !important;
   text-align: left;
 }
 
@@ -40,6 +51,10 @@
   text-align: left !important;
 }
 
+.text-ceramic {
+  color: #729496 !important;
+  text-align: left;
+}
 
 
 @media (min-width: 768px) {
